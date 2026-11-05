@@ -12,6 +12,6 @@ A experiência na Fatec foi bastante diferente daquela que tive na minha primeir
 
 ## Contatos
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniacruzz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tânia-cruz-30ab5812a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tânia-cruz-30ab5812a)
 
 
