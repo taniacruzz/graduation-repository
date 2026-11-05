@@ -10,3 +10,8 @@ As disciplinas de API proporcionaram um ambiente que nos impulsionou não apenas
 
 A experiência na Fatec foi bastante diferente daquela que tive na minha primeira graduação. Enquanto na Geologia o aprendizado era predominantemente voltado à formação acadêmica, com um ambiente mais controlado e dedicado ao aprofundamento dos assuntos, na Fatec o aprendizado foi direcionado às demandas do mercado de trabalho. Aprendíamos enquanto desenvolvíamos e implementávamos soluções, em um ambiente menos previsível, sujeito a imprevistos e que exigia constante adaptação. Essa experiência contribuiu significativamente para o meu amadurecimento profissional.
 
+## Contatos
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniacruzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tânia-cruz-30ab5812a)
+
+
